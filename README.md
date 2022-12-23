@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaurav0497
-- 👀 I’m interested in web development, backend api, frontend api.
+- 👀 I’m interested in web development, backend api, frontend design.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me thakurgaurav497@gmail.com
